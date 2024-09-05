@@ -1,5 +1,5 @@
-# DiMSOD
-## All in One: Text-to-Image Diffusion Model for RGB, RGB-D, and RGB-T Salient Object Detection
+# diffSOD
+## Multi-modal Salient Object Detection via a Unified Diffusion Model
 ![Static Badge](https://img.shields.io/badge/Apache-blue?style=flat&label=license&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/passing-green?style=flat&label=build&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/passing-green?style=flat&label=circleci&labelColor=black&color=green)
