@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/welcome-green?style=flat&label=PRs&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/Python-green?style=flat&label=Language&labelColor=black&color=green)
 ## ⭐ [Comprehensive supplements](https://github.com/QuantumScriptHub/diffSOD/blob/master/result/icassp2025supp.pdf)
-For a more comprehensive and detailed visual demonstration, please refer to our extensive [supplementary materials](https://github.com/QuantumScriptHub/diffSOD/blob/master/result/ACM_MM_2024_SUPP.pdf). Therein, you will find the theoretical derivation and formulaic proof for the Attention Feature Interaction Module (AFIM), as well as additional implementation details and comparative experimental data.
+For a more comprehensive and detailed visual demonstration, please refer to our extensive [supplementary materials](https://github.com/QuantumScriptHub/diffSOD/blob/master/result/icassp2025supp.pdf). Therein, you will find the theoretical derivation and formulaic proof for the Attention Feature Interaction Module (AFIM), as well as additional implementation details and comparative experimental data.
 
 <p align="center">
     <img src="result/amazing.jpg" alt="amazing result" />
